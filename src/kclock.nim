@@ -1,8 +1,6 @@
-#a simple clock component
+# source for the Clock component
 import karax/[karax, karaxdsl, vdom]
 import std/times
-# source for the Clock component
-
 import std/dom
 import sugar
 

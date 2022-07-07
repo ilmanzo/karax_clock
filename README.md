@@ -14,8 +14,9 @@ To build it from source, just run
 
 to install dependencies and compile the code. 
 
-Then open index.html with your favourite browser!
+Then open index.html with your favourite browser, or simply [click here for a live example](https://ilmanzo.github.io/karax_clock/)
 
 # Demo
+
 ![Demo](assets/clock_demo.gif)
 

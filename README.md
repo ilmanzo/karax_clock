@@ -10,7 +10,7 @@ Component **KClock** is stateful, so you can manage many of them independently i
 
 To build it from source, just run
 
-    nimble deps && nimble make
+    nimble -y install && nimble make
 
 to install dependencies and compile the code. 
 

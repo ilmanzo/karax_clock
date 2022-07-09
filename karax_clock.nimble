@@ -12,7 +12,7 @@ backend       = "js"
 requires "nim >= 1.6.6"
 requires "karax#head"
 
-#TODO: can we pass flags to nimble build ?
+#TODO: can we pass -d:...  flags to nimble build ?
 
 task make, "[re]compile the code":
   exec "nim js -d:danger -d:release -o:docs/index.js src/index.nim "
